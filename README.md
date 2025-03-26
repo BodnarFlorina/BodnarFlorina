@@ -18,5 +18,7 @@
 
 ## 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=github_dark)
+
 ---
+
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BodnarFlorina&theme=github_dark)
