@@ -20,9 +20,6 @@
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BodnarFlorina&show_icons=true&theme=dark)
 
-## 🔥 Contribution Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=BodnarFlorina&theme=dark)
-
 ## 🕰️ GitHub Activity (All Time):
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BodnarFlorina&theme=github_dark)
 
