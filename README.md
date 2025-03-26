@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Florina!
 
-<!--
-**BodnarFlorina/BodnarFlorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 [Despre tine, studii, proiecte]
+- 📫 How to reach me: bodnarflorina55@gmail.com
+- ⚡ Fun fact: [ceva interesant despre tine]
+- 📚 Enthusiast learner
 
-Here are some ideas to get you started:
+## Languages & Tools:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BodnarFlorina&show_icons=true&theme=dark)
+
+## 🚀 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=dark)
