@@ -15,17 +15,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-## 🏆 GitHub Profile Summary:
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BodnarFlorina&theme=github_dark)
-
-## 📊 Total GitHub Contributions:
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BodnarFlorina&theme=github_dark)
-
-## 🔥 Contribution Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=BodnarFlorina&theme=dark)
-
-## 🚀 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=dark)
 
 
 ## 📊 GitHub Stats:
@@ -33,4 +22,5 @@
 
 ## 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=dark)
+---
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BodnarFlorina&theme=github_dark)
