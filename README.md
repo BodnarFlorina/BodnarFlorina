@@ -17,6 +17,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BodnarFlorina&show_icons=true&theme=github_dark)
 
 ## 🚀 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=github_dark)
 ---
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BodnarFlorina&theme=github_dark)
