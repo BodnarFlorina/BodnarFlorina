@@ -26,13 +26,3 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BodnarFlorina&show_icons=true&include_all_commits=true&theme=github_dark)
-
-
-## 🚀 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodnarFlorina&layout=compact&theme=github_dark)
-
----
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BodnarFlorina&theme=github_dark)
