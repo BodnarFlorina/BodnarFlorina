@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Florina!
 
-- 🎓 Master's student at Faculty of Computer Science - Information Security  
+- 🎓 Master's graduate in Information Security | Faculty of Computer Science, UAIC  
 - 📫 How to reach me: bodnarflorina55@gmail.com
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where *you are also the murderer*.  
 - 📚 Enthusiast learner
